@@ -1,0 +1,247 @@
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csprojResolveAssemblyReference.cache
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.g.cs
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.g.cs
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.cache
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.lref
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.vsix
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\extension.vsixmanifest
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE100.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE80.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\log4net.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\stdole.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Core.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Common.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.Unity.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90a.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.MSXML.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Core.pdb
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\log4net.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Common.pdb
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.Unity.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.g.cs
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.baml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.baml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.baml
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.g.resources
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.Config.ConnectionConfigForm.resources
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csproj.GenerateResource.Cache
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\SymPackage.cto
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSCT.read.1.tlog
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSCT.write.1.tlog
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\CtoResourceMerger.cache
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources.original
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.dll
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pdb
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.latest.pkgdef
+D:\BeanLocalDev\Development\CalculationEngine\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\extension.vsixmanifest
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.vsix
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\extension.vsixmanifest
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE100.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\log4net.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\stdole.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Core.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Common.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90a.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Core.pdb
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\log4net.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.Common.pdb
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csprojResolveAssemblyReference.cache
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.g.cs
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.g.cs
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.g.cs
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.cache
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.lref
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.baml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.baml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.baml
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.g.resources
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.Config.ConnectionConfigForm.resources
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csproj.GenerateResource.Cache
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\SymPackage.cto
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSCT.read.1.tlog
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSCT.write.1.tlog
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\CtoResourceMerger.cache
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources.original
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.dll
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pdb
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.latest.pkgdef
+D:\Visual Studio Extension\Demo Solution\BranchDEV2015VSX\Symplexity.VisualStudioExtension\obj\Debug\extension.vsixmanifest
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csprojResolveAssemblyReference.cache
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.g.cs
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.g.cs
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.g.cs
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.cache
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension_MarkupCompile.lref
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pdb
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE100.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\stdole.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\EnvDTE90a.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\log4net.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\CalcEngineView.baml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\UtilitiesView.baml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Engines\TAEngineView.baml
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.g.resources
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.csproj.GenerateResource.Cache
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\SymPackage.cto
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\VSCT.read.1.tlog
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\VSCT.write.1.tlog
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\CtoResourceMerger.cache
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\VSPackage.resources.original
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.pkgdef
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\Symplexity.VisualStudioExtension.latest.pkgdef
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\extension.vsixmanifest
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\Symplexity.VisualStudioExtension.vsix
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\bin\Debug\extension.vsixmanifest

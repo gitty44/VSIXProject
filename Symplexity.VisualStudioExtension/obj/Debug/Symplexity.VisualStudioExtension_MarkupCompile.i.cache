@@ -1,0 +1,20 @@
+﻿Symplexity.VisualStudioExtension
+
+
+library
+C#
+.cs
+D:\Visual Studio Extension\VSIXProject\Symplexity.VisualStudioExtension\obj\Debug\
+Symplexity.VisualStudioExtension
+none
+false
+DEBUG;TRACE
+
+31733275660
+7-699966495
+21-1935943948
+39-1501565292
+Engines\CalcEngineView.xaml;Engines\UtilitiesView.xaml;Engines\TAEngineView.xaml;
+
+False
+

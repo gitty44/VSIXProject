@@ -1,0 +1,11 @@
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.VisualStudioExtension.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.VisualStudioExtension.pdb
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\log4net.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.Core.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.VisualStudioExtension.pkgdef
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\extension.vsixmanifest
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Microsoft.Practices.ServiceLocation.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Microsoft.Practices.Unity.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.Common.dll
+C:\Users\marionr\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Marion JvR\Symplexity.VisualStudioExtension\1.0\\Symplexity.Core.pdb
